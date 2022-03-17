@@ -1,0 +1,6 @@
+name: Manually created workflow
+on:  
+  push:
+  pull_request:
+    branches:
+      - master
